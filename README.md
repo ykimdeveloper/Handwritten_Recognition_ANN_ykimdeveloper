@@ -36,7 +36,7 @@
 
 author: yosep kim
 
-github.com/cowboyuniverse
+github.com/ykimdeveloper
 
 
 <!-- ![Screenshot](https://github.com/cowboyuniverse/cancerPrediction/blob/master/blob/Capture.PNG) -->
